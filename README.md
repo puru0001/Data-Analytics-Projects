@@ -112,7 +112,7 @@ This section likely displays the earliest start date and the latest end date out
 It’s important to note that these are just examples of how Tableau Calculation Language (TCL) expressions could be used to create the visuals in this dashboard. The specific calculations would depend on the structure of the underlying data in Tableau.
 
 
-### 3. [SQL Murder Mystery](https://github.com/puru0001/Data-Analytics-Projects/blob/main/SQL%20Murder%20Mystery%20soln.pdf)
+### 4. [SQL Murder Mystery](https://github.com/puru0001/Data-Analytics-Projects/blob/main/SQL%20Murder%20Mystery%20soln.pdf)
 
 ![SQL Murder Mystery.](/Src/images/SQL_murder_myster.jpg "SQL Murder Mystery")
 
