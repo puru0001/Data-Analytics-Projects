@@ -1,7 +1,9 @@
 # Data-Analytics-Projects
 ### 1. [Super mart dashboard visual](https://github.com/puru0001/Data-Analytics-Projects/tree/main/superstore%20data)
 ![SuperMart Dashboard visual.](/Src/images/supermart_1.jpg "SuperMart Dashboard visual 1.")
+
 ![SuperMart Dashboard visual.](/Src/images/supermart_2.jpg "SuperMart Dashboard visual 2.")
+
 ![SuperMart Dashboard visual.](/Src/images/supermart_3.jpg "SuperMart Dashboard visual 3.")
 
 It displays various sales and profit metrics for a fictional company, Super Mart. While Power BI itself doesn’t use Excel formulas directly, it uses a similar formula language called DAX (Data Analysis Expressions) to create calculated columns and measures.
@@ -41,7 +43,9 @@ This section shows a bar chart that displays the profit earned from each of the 
 ### 2. [Ecommerce Sales Dashboard](https://github.com/puru0001/Data-Analytics-Projects/tree/main/Ecom)
 
 ![e commerce Dashboard visual.](/Src/images/e_com_1.jpg "e commerce Dashboard visual 1.")
+
 ![e commerce Dashboard visual.](/Src/images/e_com_2.jpg "e commerce Dashboard visual 2.")
+
 ![e commerce Dashboard visual.](/Src/images/e_com_3.jpg "e commerce Dashboard visual 3.")
 
 It displays various sales and profit metrics for an e-commerce business. While Power BI itself doesn't use Excel formulas directly, it uses a similar formula language called DAX (Data Analysis Expressions) to create calculated columns and measures. SQL is used to query relational databases and retrieve data for use in Power BI.
