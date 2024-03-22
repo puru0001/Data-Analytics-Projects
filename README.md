@@ -82,7 +82,7 @@ This section likely shows a table that breaks down the total profit by product s
 
 ![Hr data Dashboard visual.](/Src/images/Hr_dashboard.png "Hr data Dashboard visual 1.")
 
-The image you sent is a sample of a Tableau dashboard, not a Power BI dashboard. Tableau uses its own calculation language called Tableau Calculation Language (TCL) to create calculated fields and measures. It does not directly use Excel formulas.
+Tableau uses its own calculation language called Tableau Calculation Language (TCL) to create calculated fields and measures. It does not directly use Excel formulas.
 
 The dashboard you sent appears to be a CEO dashboard that displays KPIs (Key Performance Indicators) related to project execution and budget. Here’s a breakdown of the different sections of the dashboard and the kind of Tableau Calculation Language (TCL) expressions that could be used to create them:
 
