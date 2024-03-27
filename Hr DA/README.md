@@ -1,7 +1,7 @@
 # Data-Analytics-Projects
 ###  [HR Data Dashboard](https://github.com/puru0001/Data-Analytics-Projects/tree/main/Hr%20DA)
 
-![Hr data Dashboard visual.](/Hr_dashboard.png "Hr data Dashboard visual.")
+![Hr data Dashboard visual.](/Src/images/Hr_dashboard.png "Hr data Dashboard visual.")
 
 Tableau uses its own calculation language called Tableau Calculation Language (TCL) to create calculated fields and measures. It does not directly use Excel formulas.
 
